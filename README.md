@@ -24,4 +24,3 @@ I am computer science engineer and I am interested in Software Development with 
 ### 🌐 Connect With Me
 
 - **LinkedIn:** [linkedin.com/in/rudradeshmukh1312](https://linkedin.com/in/rudradeshmukh1312)
-- **Portfolio:** [rudradeshmukh1312.github.io/Rudra-s-Portfolio](https://rudradeshmukh1312.github.io/Rudra-s-Portfolio)
