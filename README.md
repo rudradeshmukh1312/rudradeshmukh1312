@@ -1,6 +1,6 @@
 # Yo, I'm Rudra Deshmukh 👋
 
-Software Developer with a focus on Applied AI, Machine Learning, and Computer Vision. I build end-to-end intelligent applications ranging from local LLM chatbots to augmented reality experiences.
+I am computer science engineer and I am interested in Software Development with a focus on Applied AI, Machine Learning, and Computer Vision. I build end-to-end intelligent applications ranging from local LLM chatbots to augmented reality experiences.
 
 ---
 
